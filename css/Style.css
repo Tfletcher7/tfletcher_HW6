@@ -1,0 +1,45 @@
+.wrapper{
+    background-color: #585858;
+}
+header {background-color: yellow;
+border: 2px solid black;
+padding: 5px;
+text-align: center;}
+
+nav {background-color: black;
+margin: 10px;
+color: whitesmoke;
+font-size: larger;}
+main {background-color: yellow;}
+footer {background-color: black;
+padding: 10px;
+text-align: center;
+color: #ffffff;}
+
+/* visited link */
+a {
+    color: #ffffff;
+  }
+
+  table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 90%;
+    background-color: white;
+    border: 1px solid black;
+  }
+  
+  th {
+    background-color: yellow;
+    color: black;
+  }
+  
+  td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
